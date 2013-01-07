@@ -1,3 +1,0 @@
-CodeNcode
-Bur server's are too slow 
-How branching work in GitHub
