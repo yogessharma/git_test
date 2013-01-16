@@ -1,1 +1,2 @@
 Starting with git
+Get the differences
